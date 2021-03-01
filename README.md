@@ -7,5 +7,15 @@ I used Bootstrap imported with NPM.
 
 1. Responsive Web-Mobile
 2. Animated Cards
-3. MouseOver animations
+3. MouseOver animated menu linkss
 4. Different links
+
+## To get Started
+
+First you need to install the dependencies:
+
+```
+npm install
+```
+
+So that the folder _node_modules_ gets installed locally with the libraries of _bootstrap_ and _jquery_.
